@@ -1,4 +1,4 @@
-# Scale Lab OS — Nurture Email Sequences
+# Scale Lab OS: Nurture Email Sequences
 **24 emails · 6 archetypes · 4 emails each (Day 3 / 7 / 14 / 30)**
 Author voice: Riley Dempsey, Co-Founder, Roof King ($9M roofing operator)
 All CTAs → app.scalelabos.ai/courses · $27 per workbook
@@ -9,10 +9,10 @@ All CTAs → app.scalelabos.ai/courses · $27 per workbook
 
 ---
 
-### Email 1.1 — Day 3
-**Subject:** How identity-stuck founders get unstuck — a Roof King breakdown
+### Email 1.1 | Day 3
+**Subject:** How identity-stuck founders get unstuck: a Roof King breakdown
 
-Three years ago I was the estimate. Not doing the estimates — I was the estimate.
+Three years ago I was the estimate. Not doing the estimates. I was the estimate.
 
 Every job came through me because customers wanted the owner on-site. Every signed contract happened because I was there in person. We did $2.1M that year and I worked every single day of it.
 
@@ -22,7 +22,7 @@ Here's what I eventually figured out: I wasn't running a business. I was running
 
 The first thing that broke the cycle wasn't hiring. It was getting honest about where jobs were actually dying.
 
-We tracked every lead through every stage for 90 days. Turned out 60% of our deals were dying at the estimate stage — not because of price, but because of follow-up timing. We had a sales problem, not a capacity problem.
+We tracked every lead through every stage for 90 days. Turned out 60% of our deals were dying at the estimate stage. Not because of price, but because of follow-up timing. We had a sales problem, not a capacity problem.
 
 That one insight bought me back two days a week. Not because I hired someone. Because we fixed the process and stopped chasing deals that were already dead.
 
@@ -30,14 +30,14 @@ If you're the business right now, start there. Not with hiring. With understandi
 
 The Sales Conversion Tracker walks you through this in about 90 minutes.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley Dempsey
 Co-Founder, Scale Lab OS
 
 ---
 
-### Email 1.2 — Day 7
+### Email 1.2 | Day 7
 **Subject:** The one move identity-stuck founders haven't made yet
 
 You've probably thought about hiring. Maybe you've posted a job. Maybe you've interviewed a few people who didn't work out.
@@ -50,7 +50,7 @@ When I was stuck as the only estimator at Roof King, all the job data lived in m
 
 Nobody could do my job because my job didn't exist anywhere except inside me.
 
-What changed wasn't finding the right person. It was building the worksheet that made the job learnable. When I could show someone how I priced jobs — in writing, with logic they could follow — I could start building a real business around it.
+What changed wasn't finding the right person. It was building the worksheet that made the job learnable. When I could show someone how I priced jobs, in writing with logic they could follow, I could start building a real business around it.
 
 You don't have a people problem. You have a documentation problem.
 
@@ -58,13 +58,13 @@ Start by getting your job costing out of your head and into a worksheet someone 
 
 The Job Costing Worksheet takes about two hours. When you're done, you have a process someone else can run.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 1.3 — Day 14
+### Email 1.3 | Day 14
 **Subject:** Are you still the business? Here's the pattern.
 
 Here's what I see with founders who are still stuck at two weeks:
@@ -83,18 +83,18 @@ That's the path. Not one big move. A series of small ones where you make yoursel
 
 If you're at Day 14 and haven't started, the overhead calculation is usually the fastest win. It's the number most founders carry in their head incorrectly.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 1.4 — Day 30
-**Subject:** 60 days from now — what changes for an identity-stuck founder
+### Email 1.4 | Day 30
+**Subject:** 60 days from now: what changes for an identity-stuck founder
 
 Most identity-stuck founders at Day 30 have done one of two things:
 
-Made one real move — documented one process, started tracking one number they weren't tracking before — and something small but meaningful shifted.
+Made one real move: documented one process, started tracking one number they weren't tracking before. Something small but meaningful shifted.
 
 Or read every email, agreed with all of it, and nothing changed.
 
@@ -108,7 +108,7 @@ The production leak is usually the fastest ROI for a founder ready to stop being
 
 Find your number.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
@@ -118,8 +118,8 @@ Riley
 
 ---
 
-### Email 2.1 — Day 3
-**Subject:** How phone-glued founders get unstuck — a Roof King breakdown
+### Email 2.1 | Day 3
+**Subject:** How phone-glued founders get unstuck: a Roof King breakdown
 
 I used to wake up to 47 unread texts. Crew asking where to start. Customers asking about timelines. Subs asking about material drops. My foreman asking what to do about a bad decking section they found at 7am.
 
@@ -127,7 +127,7 @@ At Roof King, every decision ran through my phone. Not because I wanted it that 
 
 The business got to $2M by running through me. Then it stalled. Because there are only so many texts you can answer in a day.
 
-The texts weren't the problem. The fact that every question had one answer — me — was the problem.
+The texts weren't the problem. The fact that every question had one answer (me) was the problem.
 
 The first fix wasn't a better phone system. It was reducing the number of decisions that required an answer from me at all.
 
@@ -139,40 +139,40 @@ That hire is harder than it sounds. Most hires at this stage fail because the ow
 
 The First Hire Blueprint is how I built the role before I filled it.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 2.2 — Day 7
+### Email 2.2 | Day 7
 **Subject:** The one move phone-glued founders haven't made yet
 
 Seven days in. I'm guessing your phone is still the same.
 
 Here's the move nobody tells you: stop trying to answer fewer texts. Start building a system that makes the texts unnecessary.
 
-Every text you get is a gap in your operating system. Crew doesn't know what to start — that's a scheduling gap. Customer wants an update — that's a communication gap. Sub needs approval on a $200 call — that's an authority gap.
+Every text you get is a gap in your operating system. Crew doesn't know what to start: scheduling gap. Customer wants an update: communication gap. Sub needs approval on a $200 call: authority gap.
 
 I tracked every text I got for two weeks at Roof King. Categorized them. About 70% were the same eight questions, repeating every week.
 
 Eight questions. I wrote answers to those eight questions, posted them in the crew group chat, and put them in the truck binders. Those 70% of texts disappeared within 30 days.
 
-What's left after that is the real work — judgment calls, customer escalations, things that actually need you. And there's a lot less of it than you think.
+What's left after that is the real work: judgment calls, customer escalations, things that actually need you. And there's a lot less of it than you think.
 
 But first you need to track what's actually coming in.
 
-The Sales Conversion Tracker was designed for pipeline visibility, but the methodology — track every touchpoint, find the pattern, fix the gap — applies to operations too.
+The Sales Conversion Tracker was designed for pipeline visibility, but the methodology (track every touchpoint, find the pattern, fix the gap) applies to operations too.
 
 Track before you fix.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 2.3 — Day 14
+### Email 2.3 | Day 14
 **Subject:** Still glued to your phone? Here's the real pattern.
 
 Two weeks in. Most phone-glued founders at this stage have made a few small tweaks and seen some improvement, but the phone is still the command center.
@@ -183,22 +183,22 @@ The small fixes work. They reduce friction. But they don't change the fundamenta
 
 Until that changes, the phone stays busy.
 
-The architecture changes when you have one person who can make decisions without calling you. Not a yes-person. A real operator who understands the business — what margin looks like, what a good job looks like from start to finish.
+The architecture changes when you have one person who can make decisions without calling you. Not a yes-person. A real operator who understands the business: what margin looks like, what a good job looks like from start to finish.
 
 That person costs more upfront than you want to spend. But the math is simple: if you're billing $800K per year and spending 60% of your time on communication overhead, that's real revenue you're not chasing because you're on the phone.
 
-The first operator hire is the highest-leverage thing a $1M-$3M roofing company can do. I've seen it add $400K in revenue in the first year — not because the hire is magic, but because the founder finally gets bandwidth.
+The first operator hire is the highest-leverage thing a $1M-$3M roofing company can do. I've seen it add $400K in revenue in the first year. Not because the hire is magic, but because the founder finally gets bandwidth.
 
 The First Hire Blueprint walks through exactly how I structured that role, what I paid, and how I tested for the right person.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 2.4 — Day 30
-**Subject:** 60 days from now — the phone-glued founder version
+### Email 2.4 | Day 30
+**Subject:** 60 days from now: the phone-glued founder version
 
 At Day 30, some founders have made the hire. Most haven't.
 
@@ -216,7 +216,7 @@ Start there. Before the job board. Before the interviews.
 
 Define the job.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
@@ -226,8 +226,8 @@ Riley
 
 ---
 
-### Email 3.1 — Day 3
-**Subject:** How hiring-starved owners get unstuck — a Roof King breakdown
+### Email 3.1 | Day 3
+**Subject:** How hiring-starved owners get unstuck: a Roof King breakdown
 
 The roofing labor market is genuinely bad. I'm not going to tell you otherwise.
 
@@ -245,13 +245,13 @@ Our bad hires weren't bad people. They were people dropped into a job that didn'
 
 The First Hire Blueprint is built around this distinction. Define the role before you post the job. The right people find you faster when you know what you're actually looking for.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 3.2 — Day 7
+### Email 3.2 | Day 7
 **Subject:** The one move hiring-starved owners haven't made yet
 
 You've probably posted on Indeed. Maybe ZipRecruiter. Maybe the Facebook groups.
@@ -268,17 +268,17 @@ What changed: we defined what the job actually was, what pay progression looked 
 
 Most owners are offering a job. The ones getting hired are offering a path.
 
-Before you post again, get clear on your overhead. You need to know your actual cost structure before you can build a real compensation offer. If you don't know what you can afford, you'll underpay and attract nobody — or overpay and break your margins.
+Before you post again, get clear on your overhead. You need to know your actual cost structure before you can build a real compensation offer. If you don't know what you can afford, you'll underpay and attract nobody, or overpay and break your margins.
 
 The Overhead Calculator is the place to start.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 3.3 — Day 14
+### Email 3.3 | Day 14
 **Subject:** Still can't hire? Here's the pattern.
 
 Two weeks in, the hiring problem usually has one of two root causes:
@@ -301,14 +301,14 @@ Once the overhead is right, the job costing is right, the margins are right, and
 
 The Overhead Calculator takes about three hours. Most owners learn something they didn't expect.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 3.4 — Day 30
-**Subject:** 60 days from now — the hiring-starved owner version
+### Email 3.4 | Day 30
+**Subject:** 60 days from now: the hiring-starved owner version
 
 At Day 30 without a hire, most owners are doing one of two things:
 
@@ -328,7 +328,7 @@ The Lead Machine Blueprint was built around customer acquisition. The approach t
 
 Start building now. You'll be hiring from strength in 90 days instead of desperation.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
@@ -338,8 +338,8 @@ Riley
 
 ---
 
-### Email 4.1 — Day 3
-**Subject:** How estimators trapped in sales get unstuck — a Roof King breakdown
+### Email 4.1 | Day 3
+**Subject:** How estimators trapped in sales get unstuck: a Roof King breakdown
 
 For three years I priced every job we did.
 
@@ -351,7 +351,7 @@ At Roof King, when I finally separated the functions, here's what we found: 40% 
 
 The first fix wasn't hiring a second estimator. It was tracking where deals were actually dying.
 
-We found that 60% of lost deals died between estimate delivery and the follow-up call — not at the price. Customers were getting our number, getting nervous, going quiet. And we were doing nothing for five to seven days.
+We found that 60% of lost deals died between estimate delivery and the follow-up call, not at the price. Customers were getting our number, getting nervous, going quiet. And we were doing nothing for five to seven days.
 
 That's a process problem, not a capacity problem.
 
@@ -359,13 +359,13 @@ If you're trapped in sales right now, start by measuring the pipeline. You might
 
 The Sales Conversion Tracker is built for this exact diagnosis.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 4.2 — Day 7
+### Email 4.2 | Day 7
 **Subject:** The one move estimators trapped in sales haven't made yet
 
 Still in every estimate? Still closing every deal personally?
@@ -376,7 +376,7 @@ That sounds backward. Here's why it matters.
 
 Most founders in this position have convinced themselves that no deal closes unless they're in the room. They've never tested it. They intervene before the failure happens, which means they never learn whether the failure was real.
 
-Pick one lead this week. Run the estimate. Hand the follow-up call to someone on your team — admin, project manager, whoever. You don't show up.
+Pick one lead this week. Run the estimate. Hand the follow-up call to someone on your team (admin, project manager, whoever). You don't show up.
 
 You'll either close it (which proves your presence wasn't necessary) or lose it (which tells you exactly where the process breaks). Both outcomes are useful.
 
@@ -386,13 +386,13 @@ You need to know your real close rate before you can fix your pipeline.
 
 The Sales Conversion Tracker shows you exactly where deals die.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 4.3 — Day 14
+### Email 4.3 | Day 14
 **Subject:** Still trapped in estimates? Here's the pattern.
 
 Two weeks in, the estimator-trapped-in-sales pattern usually has one root cause:
@@ -401,7 +401,7 @@ The sales process lives in the founder's head. There's no written follow-up sequ
 
 Until the process is written, nobody can run it.
 
-At Roof King, when I finally wrote out our full sales process — every touchpoint, every call script, every email template, every decision point — it took me a full weekend. Then I handed it to our office manager.
+At Roof King, when I finally wrote out our full sales process, every touchpoint, every call script, every email template, every decision point. It took me a full weekend. Then I handed it to our office manager.
 
 Her close rate was 68% of mine in the first 30 days. Within 90 days she was at 84%.
 
@@ -409,16 +409,16 @@ She wasn't as strong on the technical conversation. But the process held the dea
 
 Write the process before you hire for it. The writing is what makes the hiring possible.
 
-The Job Costing Worksheet takes a similar approach to the financial side — it forces you to write down what you've been keeping in your head. Same methodology, different function.
+The Job Costing Worksheet takes a similar approach to the financial side: it forces you to write down what you've been keeping in your head. Same methodology, different function.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 4.4 — Day 30
-**Subject:** 60 days from now — the estimator-trapped-in-sales version
+### Email 4.4 | Day 30
+**Subject:** 60 days from now: the estimator-trapped-in-sales version
 
 At Day 30, most founders in this archetype have one of two situations:
 
@@ -438,7 +438,7 @@ Fix the process. Write it down. Hand it off. Then use the time you recover to cl
 
 The Production Leak Calculator helps you find the revenue slipping through the gaps in your operation. Estimating time is often the biggest one.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
@@ -448,8 +448,8 @@ Riley
 
 ---
 
-### Email 5.1 — Day 3
-**Subject:** How production bottleneck owners get unstuck — a Roof King breakdown
+### Email 5.1 | Day 3
+**Subject:** How production bottleneck owners get unstuck: a Roof King breakdown
 
 We had a $400K backlog and couldn't touch it.
 
@@ -467,13 +467,13 @@ We measured every job against the estimate at close. Every variance got a reason
 
 The Production Leak Calculator is the audit I wish I'd had three years earlier.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 5.2 — Day 7
+### Email 5.2 | Day 7
 **Subject:** The one move production bottleneck owners haven't made yet
 
 The move you haven't made: audit one job from start to close, line by line, against the original estimate.
@@ -494,13 +494,13 @@ Fix those two or three things and you recover the margin across every job going 
 
 The Production Leak Calculator walks you through this audit.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 5.3 — Day 14
+### Email 5.3 | Day 14
 **Subject:** Still a production bottleneck? Here's the pattern.
 
 Two weeks in, the production bottleneck usually comes back to one thing: the owner is the quality control.
@@ -519,14 +519,14 @@ You need the system to carry the quality. Not your presence.
 
 Once you've got a production system, measure whether it's actually working with real numbers. The Job Costing Worksheet helps you build the per-job baseline you need to see if your system is holding margin.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 5.4 — Day 30
-**Subject:** 60 days from now — the production bottleneck version
+### Email 5.4 | Day 30
+**Subject:** 60 days from now: the production bottleneck version
 
 At Day 30, the production bottleneck owners who've made progress have one thing in common: they found their number.
 
@@ -536,7 +536,7 @@ The dollar amount leaking out of production every month. When you know the numbe
 
 At Roof King, our number was $18,400 per month in preventable production variance. That's what 90 days of tracking showed us.
 
-$18,400 every month. Not gone forever — sitting in process gaps we'd been accepting as normal.
+$18,400 every month. Not gone forever. Sitting in process gaps we'd been accepting as normal.
 
 When I put that number on paper, the fix became obvious. We weren't talking about efficiency in the abstract. We were talking about $220K per year we were leaving on the table.
 
@@ -546,7 +546,7 @@ But build the job first.
 
 The First Hire Blueprint walks through exactly how to define a production operations role before you post it.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
@@ -556,8 +556,8 @@ Riley
 
 ---
 
-### Email 6.1 — Day 3
-**Subject:** How cash-light operators get unstuck — a Roof King breakdown
+### Email 6.1 | Day 3
+**Subject:** How cash-light operators get unstuck: a Roof King breakdown
 
 We were doing $3.2M in revenue and had $12K in the bank.
 
@@ -575,13 +575,13 @@ We went from $12K in the bank to a 45-day operating reserve in eight months. Sam
 
 The Overhead Calculator is the document I wish we'd built in year one.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 6.2 — Day 7
+### Email 6.2 | Day 7
 **Subject:** The one move cash-light operators haven't made yet
 
 The move: build a 13-week cash flow forecast.
@@ -592,7 +592,7 @@ Most small operators run off bank balance. You look at the account, see a number
 
 That's not financial management. That's watching the speedometer without looking at the road.
 
-At Roof King, when we built our first 13-week forecast, we saw something immediately: we were going to run dry in week eight. Not because the business was unprofitable — because we had a gap in draws. Three jobs finishing at the same time with final draws coming in week nine, and overhead payments due in weeks seven and eight.
+At Roof King, when we built our first 13-week forecast, we saw something immediately: we were going to run dry in week eight. Not because the business was unprofitable. We had a gap in draws. Three jobs finishing at the same time with final draws coming in week nine, and overhead payments due in weeks seven and eight.
 
 If we hadn't built the forecast, we would have missed payroll. We knew eight weeks out. We had time to factor two jobs early and bridge the gap.
 
@@ -600,13 +600,13 @@ You can't see the hole until you build the map.
 
 The Overhead Calculator helps you build the fixed-cost baseline that makes the 13-week forecast possible. Know what you spend before you forecast it.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 6.3 — Day 14
+### Email 6.3 | Day 14
 **Subject:** Still cash-light at Day 14? Here's the pattern.
 
 Two weeks in, the cash-light operator usually has one of two root causes:
@@ -625,14 +625,14 @@ At Roof King, the draw schedule change alone added $80K to our average cash posi
 
 Start with the overhead number. It tells you whether the pricing problem is real.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
 ---
 
-### Email 6.4 — Day 30
-**Subject:** 60 days from now — the cash-light operator version
+### Email 6.4 | Day 30
+**Subject:** 60 days from now: the cash-light operator version
 
 At Day 30, cash-light operators who've made progress have done one thing: they stopped guessing.
 
@@ -646,9 +646,9 @@ Less work. More cash. Cleaner picture.
 
 That shift starts with knowing what you actually cost.
 
-The Overhead Calculator is the first step. The Sales Conversion Tracker is what you use after — to make sure the revenue you're generating is coming from the right jobs at the right prices.
+The Overhead Calculator is the first step. The Sales Conversion Tracker is what you use after, to make sure the revenue you're generating is coming from the right jobs at the right prices.
 
-app.scalelabos.ai/courses — $27
+app.scalelabos.ai/courses · $27
 
 Riley
 
